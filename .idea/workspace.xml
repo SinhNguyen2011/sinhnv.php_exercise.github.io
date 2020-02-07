@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de62448b-1285-4509-92be-d97009d7a4f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_teacher.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old_teacher.php" afterDir="false" />
+    <list default="true" id="10d9396b-8c1f-4545-86fe-2bf261bf40ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,25 +13,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/old_teacher.php">
+        <entry file="file://$PROJECT_DIR$/Mang1Chieu_TimViTri_CoValueMin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="53" column="41" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
-              <folding>
-                <element signature="n#__construct#0;n#thaotacjson#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="21" column="65" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/new_teacher.php">
+        <entry file="file://$PROJECT_DIR$/Mang1Chieu_TimMax.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-              <folding>
-                <element signature="n#__construct#0;n#new_teacher#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="340">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="15" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -46,9 +38,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/thaotacjson.php" />
-        <option value="$PROJECT_DIR$/new_teacher.php" />
-        <option value="$PROJECT_DIR$/old_teacher.php" />
+        <option value="$PROJECT_DIR$/Mang1Chieu_TimViTri_CoValueMin.php" />
       </list>
     </option>
   </component>
@@ -57,9 +47,6 @@
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -82,9 +69,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,17 +87,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="de62448b-1285-4509-92be-d97009d7a4f1" name="Default Changelist" comment="" />
-      <created>1581049095762</created>
+      <changelist id="10d9396b-8c1f-4545-86fe-2bf261bf40ed" name="Default Changelist" comment="" />
+      <created>1581094504045</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581049095762</updated>
-      <workItem from="1581049097262" duration="5149000" />
+      <updated>1581094504045</updated>
+      <workItem from="1581094508148" duration="1330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5149000" />
+    <option name="totallyTimeSpent" value="1330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -146,23 +130,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/new_teacher.php">
+    <entry file="file://$PROJECT_DIR$/Mang1Chieu_TimMax.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="n#__construct#0;n#new_teacher#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="340">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="15" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/old_teacher.php">
+    <entry file="file://$PROJECT_DIR$/Mang1Chieu_TimViTri_CoValueMin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="53" column="41" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
-          <folding>
-            <element signature="n#__construct#0;n#thaotacjson#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="21" column="65" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
         </state>
       </provider>
     </entry>
